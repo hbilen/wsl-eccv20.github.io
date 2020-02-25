@@ -4,21 +4,21 @@
      alt="Seong Joon Oh"
      style="float: left; margin-right: 10px;"
      height=120px/>
-     <figcaption>"Seong Joon Oh"</figcaption>
+     <figcaption>Seong Joon Oh</figcaption>
 </figure>
 <figure>
      <img src="rodrigo.jpg"
      alt="Rodrigo Benenson"
      style="float: left; margin-right: 10px;"
      height=120px/>
-     <figcaption>"Rodrigo Benenson"</figcaption>
+     <figcaption>Rodrigo Benenson</figcaption>
 </figure>
 <figure>
      <img src="hakan.jpg"
      alt="Hakan Bilen"
      style="float: left; margin-right: 10px;"
      height=120px/>
-     <figcaption>"Hakan Bilen"</figcaption>
+     <figcaption>Hakan Bilen</figcaption>
 </figure>
 
 
