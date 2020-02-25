@@ -1,6 +1,6 @@
 # Organizers/Speakers
 <figure>
-<img src=""
+<img src="joon.jpg"
      alt="Seong Joon Oh"
      style="float: left; margin-right: 10px;"
      height=120px/>
