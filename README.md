@@ -1,7 +1,13 @@
 # Organizers/Speakers
-* Seong Joon Oh 
-* ![Rodrigo Benenson](rodrigo.jpg)
-* ![Hakan Bilen](hakan.jpg)
+<img src=""
+     alt="Seong Joon Oh"
+     style="float: left; margin-right: 10px;" />
+     <img src="rodrigo.jpg"
+     alt="Rodrigo Benenson"
+     style="float: left; margin-right: 10px;" />
+     <img src="hakan.jpg"
+     alt="Hakan Bilen"
+     style="float: left; margin-right: 10px;" />
  
 
 
