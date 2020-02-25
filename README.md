@@ -1,16 +1,19 @@
 # Organizers/Speakers
+<figure>
 <img src=""
      alt="Seong Joon Oh"
      style="float: left; margin-right: 10px;"
-     height=60px/>
+     height=120px/>
+     <figcaption>"Seong Joon Oh"</figcaption>
+</figure>
      <img src="rodrigo.jpg"
      alt="Rodrigo Benenson"
      style="float: left; margin-right: 10px;"
-     height=60px/>
+     height=120px/>
      <img src="hakan.jpg"
      alt="Hakan Bilen"
      style="float: left; margin-right: 10px;"
-     height=60px/>
+     height=120px/>
 
 
 # Description
