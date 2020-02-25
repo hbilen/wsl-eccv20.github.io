@@ -1,7 +1,7 @@
 # Organizers/Speakers
 * Seong Joon Oh 
-* ![Rodrigo Benenson](assets/rodrigo.jpg)
-* ![Hakan Bilen](assets/hakan.jpg)
+* ![Rodrigo Benenson](rodrigo.jpg)
+* ![Hakan Bilen](hakan.jpg)
  
 
 
