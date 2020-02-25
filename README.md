@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Organizers/Speakers
+* Seong Joon Oh 
+* Rodrigo Benenson
+* Hakan Bilen
 
-You can use the [editor on GitHub](https://github.com/hbilen/wsl-eccv20.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Description
+ Deep convolutional networks have become the go-to technique for a variety of computer vision task such as image classification, object detection, segmentation, key points detection, etc. These over-parameterized models are known to be data-hungry; tens of thousand of labelled examples are typically required. Since manual annotations are expensive, learning from “weaker” annotations (e.g. only image-level category labels to localize object instances by a bounding box) become key to expand the success of deep networks to new applications.
 
-### Markdown
+This tutorial will provide an overview of weakly supervised learning methods in computer vision, and we will discuss the broad area of weakly supervised object recognition and its limitations of current state-of-the-art, evaluation metrics, and future ideas that will spur disruptive progress in the field of weakly supervised learning.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hbilen/wsl-eccv20.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Time: 08.30-12.00 (Half Day Morning)
+# Date: Friday, August 28th, 2020 in Room Jura (655 seats)
+# Schedule (TBD)
