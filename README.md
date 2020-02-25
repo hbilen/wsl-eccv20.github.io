@@ -10,5 +10,5 @@
 This tutorial will provide an overview of weakly supervised learning methods in computer vision, and we will discuss the broad area of weakly supervised object recognition and its limitations of current state-of-the-art, evaluation metrics, and future ideas that will spur disruptive progress in the field of weakly supervised learning.
 
 # Time: 08.30-12.00 (Half Day Morning)
-# Date: Friday, August 28th, 2020 in Room Jura (655 seats)
+# Date: Friday, August 28th, 2020 in Room Jura
 # Schedule (TBD)
