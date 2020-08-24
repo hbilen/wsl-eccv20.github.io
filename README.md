@@ -27,13 +27,22 @@ Subject | Speaker | Time | Links
 
 ## Q&A
 
-Google Form: TBD
+We will dedicate a time slot during the live sessions for Q&A.
+You are free to ask *any* question related to the topic - we will try our best to answer all the questions during the Q&A slot.
+The questions may be asked either in person during the live sessions or using the offline Google Form below:
+
+<a target="_blank" href="
+https://forms.gle/iq9EstvTsEv2XZXj7"><img border="0" src="https://www.kindpng.com/picc/b/312/3125837.png" height=120px></a>
+
+You can ask either very specific or very open-ended questions. You can send multiple questions. You may as well choose to be anonymous in the Google Form. 
+**In short, don't be shy to ask questions!**
+
 
 ## Calendar and zoom links for live sessions
 
-**Session 1**. 9:00am - 10:30am (UTC+1) Friday 28 August 2020. [Zoom](https://us02web.zoom.us/j/86144569402?pwd=TE11MnZ2UzlPV3lWTEpLS0NlSHkrUT09) and [Calendar](https://workshopsandtutorials.eccv2020.eu/paper/949/eccv_first_event.ics)
+**Session 1**. 9:00am - 10:30am (UTC+1) Friday 28 August 2020. [Zoom](https://us02web.zoom.us/j/86144569402?pwd=TE11MnZ2UzlPV3lWTEpLS0NlSHkrUT09) and [Calendar](https://workshopsandtutorials.eccv2020.eu/paper/949/eccv_first_event.ics).
 
-**Session 2**. 16:00 - 17:30 (UTC+1) Friday 28 August 2020. [Zoom](https://us02web.zoom.us/j/84042052119?pwd=RGF0YW9qWWFxZ2MrWk02WGpXSnB1QT09) and [Calendar](https://workshopsandtutorials.eccv2020.eu/paper/949/eccv_second_event.ics) 
+**Session 2**. 16:00 - 17:30 (UTC+1) Friday 28 August 2020. [Zoom](https://us02web.zoom.us/j/84042052119?pwd=RGF0YW9qWWFxZ2MrWk02WGpXSnB1QT09) and [Calendar](https://workshopsandtutorials.eccv2020.eu/paper/949/eccv_second_event.ics).
 
 
 
