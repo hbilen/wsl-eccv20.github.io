@@ -1,6 +1,6 @@
 # ECCV 2020 Tutorial on Weakly-Supervised Learning in Computer Vision
 
-Virtual tutorial.
+Virtual tutorial at https://workshopsandtutorials.eccv2020.eu/papers/subject/weakly-supervised-learning-in-computer-vision/
 
 ## Organizers/Speakers
 
@@ -8,7 +8,17 @@ Virtual tutorial.
 :--:|:--: | :--:
 **Hakan Bilen** | **Rodrigo Benenson** | **Seong Joon Oh**
 
-## Mark your calendar (click links below)
+## Tutorial videos
+
+ECCV web page: https://workshopsandtutorials.eccv2020.eu/papers/subject/weakly-supervised-learning-in-computer-vision/
+
+Youtube: https://www.youtube.com/playlist?list=PLcD_yLvcdUll95mAnBDV0rZKhfClJMZMr
+
+## Q&A
+
+Google Form: TBD
+
+## Mark your calendar for live sessions.
 
 **Session 1** 9:00am - 10:30am (UTC+1) Friday 28 August 2020. <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NnFvMDI1MDVyMjFxbjFlcmRnazd2bHB2NjcgY29hbGxhb2hAbQ&amp;tmsrc=coallaoh%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en-GB.gif"></a>
 
@@ -21,4 +31,12 @@ Deep convolutional networks have become the go-to technique for a variety of com
 This tutorial will provide an overview of weakly supervised learning methods in computer vision, and we will discuss the broad area of weakly supervised object recognition and its limitations of current state-of-the-art, evaluation metrics, and future ideas that will spur disruptive progress in the field of weakly supervised learning.
 
 ## Table of contents
+
+1. Introduction of the tutorial on Weakly Supervised Learning in Computer Vision
+2. Tutorial on Weakly Supervised Object Detection
+3. Tutorial on Weakly supervised semantic segmentation
+4. Tutorial on Human-in-the-loop annotations
+5. Tutorial on evaluating weakly-supervised methods
+6. Closing remarks of the tutorial on Weakly Supervised Learning in Computer Vision
+
 
