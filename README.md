@@ -16,14 +16,14 @@ This tutorial will provide an overview of weakly supervised learning methods in 
 
 ## Tutorial videos
 
-Subject | Speaker | Time | Links
+Subject | Speaker | Length | Links
 -- | -- | -- | -- 
-1-Introduction | Hakan Bilen | 14:36 | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/947/) 
-2-Weakly Supervised Object Detection | Hakan Bilen | 1:02:18 | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/440/) 
-3-Weakly Supervised Semantic Segmentation | Rodrigo Benenson | 47:26 | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/438/) 
-4-Human-in-the-Loop Annotations | Rodrigo Benenson | 23:08 | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/948/) 
-5-Evaluating Weakly-Supervised Methods | Seong Joon Oh | 36:55 | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/949/) 
-6-Closing Remarks | Seong Joon Oh | 10:32 | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/950/) 
+1-Introduction | Hakan Bilen | 15 min | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/947/) 
+2-Weakly Supervised Object Detection | Hakan Bilen | 60 min | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/440/) 
+3-Weakly Supervised Semantic Segmentation | Rodrigo Benenson | 45 min | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/438/) 
+4-Human-in-the-Loop Annotations | Rodrigo Benenson | 25 min | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/948/) 
+5-Evaluating Weakly-Supervised Methods | Seong Joon Oh | 35 min | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/949/) 
+6-Closing Remarks | Seong Joon Oh | 10 min | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/950/) 
 
 ## Q&A
 
