@@ -29,11 +29,11 @@ Subject | Speaker | Time | Links
 
 Google Form: TBD
 
-## Mark your calendar for live sessions.
+## Calendar and zoom links for live sessions
 
-**Session 1** 9:00am - 10:30am (UTC+1) Friday 28 August 2020. <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NnFvMDI1MDVyMjFxbjFlcmRnazd2bHB2NjcgY29hbGxhb2hAbQ&amp;tmsrc=coallaoh%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en-GB.gif"></a>
+**Session 1**. 9:00am - 10:30am (UTC+1) Friday 28 August 2020. [Zoom](https://us02web.zoom.us/j/86144569402?pwd=TE11MnZ2UzlPV3lWTEpLS0NlSHkrUT09) and [Calendar](https://workshopsandtutorials.eccv2020.eu/paper/949/eccv_first_event.ics)
 
-**Session 2** 16:00 - 17:30 (UTC+1) Friday 28 August 2020. <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MGMwdms2NDM3MDBqOGQwZDdtMDh0dmU1YTcgY29hbGxhb2hAbQ&amp;tmsrc=coallaoh%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en-GB.gif"></a>
+**Session 2**. 16:00 - 17:30 (UTC+1) Friday 28 August 2020. [Zoom](https://us02web.zoom.us/j/84042052119?pwd=RGF0YW9qWWFxZ2MrWk02WGpXSnB1QT09) and [Calendar](https://workshopsandtutorials.eccv2020.eu/paper/949/eccv_second_event.ics) 
 
 
 
