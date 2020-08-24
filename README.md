@@ -1,27 +1,8 @@
 # Organizers/Speakers
-<p float="left">
-  <img src="hakan.jpg"
-     alt="Hakan Bilen"
-     style="float: left; margin-right: 10px;"
-     height=120px/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="rodrigo.jpg"
-     alt="Rodrigo Benenson"
-     style="float: left; margin-right: 10px;"
-     height=120px/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="joon.jpg"
-     alt="Seong Joon Oh"
-     style="float: left; margin-right: 10px;"
-     height=120px/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
-
-<p float="left">
-     &nbsp;&nbsp;&nbsp;Hakan Bilen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     Rodrigo Benenson&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     Seong Joon Oh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-
+<img src="hakan.jpg" alt="Hakan Bilen" style="float: left; margin-right: 10px;" height=120px/> |  <img src="rodrigo.jpg" alt="Rodrigo Benenson" style="float: left; margin-right: 10px;" height=120px/> | <img src="joon.jpg" alt="Seong Joon Oh" style="float: left; margin-right: 10px;" height=120px/>
+:--:|:--: | :--:
+**Hakan Bilen** | **Rodrigo Benenson** | **Seong Joon Oh**
 
 # Description
 Deep convolutional networks have become the go-to technique for a variety of computer vision task such as image classification, object detection, segmentation, key points detection, etc. These over-parameterized models are known to be data-hungry; tens of thousand of labelled examples are typically required. Since manual annotations are expensive, learning from “weaker” annotations (e.g. only image-level category labels to localize object instances by a bounding box) become key to expand the success of deep networks to new applications.
