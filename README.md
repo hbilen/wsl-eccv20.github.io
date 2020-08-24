@@ -18,12 +18,12 @@ This tutorial will provide an overview of weakly supervised learning methods in 
 
 Subject | Speaker | Time | Links
 -- | -- | -- | -- 
-1-Introduction | Hakan Bilen | 14:36 | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/947/) / [Youtube](https://www.youtube.com/watch?v=-cc2RYF37zE&list=PLcD_yLvcdUll95mAnBDV0rZKhfClJMZMr&index=2)
-2-Weakly Supervised Object Detection | Hakan Bilen | 1:02:18 | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/440/) / [Youtube](https://www.youtube.com/watch?v=L3m5SFOMNlo&list=PLcD_yLvcdUll95mAnBDV0rZKhfClJMZMr&index=2)
-3-Weakly Supervised Semantic Segmentation | Rodrigo Benenson | 47:26 | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/438/) / [Youtube](https://www.youtube.com/watch?v=jM1T1HwbY5s&list=PLcD_yLvcdUll95mAnBDV0rZKhfClJMZMr&index=3)
-4-Human-in-the-Loop Annotations | Rodrigo Benenson | 23:08 | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/948/) / [Youtube](https://www.youtube.com/watch?v=PCwpO3mLhZk&list=PLcD_yLvcdUll95mAnBDV0rZKhfClJMZMr&index=4)
-5-Evaluating Weakly-Supervised Methods | Seong Joon Oh | 36:55 | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/949/) / [Youtube](https://www.youtube.com/watch?v=D_dEkeb-fto&list=PLcD_yLvcdUll95mAnBDV0rZKhfClJMZMr&index=5)
-6-Closing Remarks | Seong Joon Oh | 10:32 | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/950/) / [Youtube](https://www.youtube.com/watch?v=IgO0g-R8HcA&list=PLcD_yLvcdUll95mAnBDV0rZKhfClJMZMr&index=6)
+1-Introduction | Hakan Bilen | 14:36 | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/947/) 
+2-Weakly Supervised Object Detection | Hakan Bilen | 1:02:18 | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/440/) 
+3-Weakly Supervised Semantic Segmentation | Rodrigo Benenson | 47:26 | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/438/) 
+4-Human-in-the-Loop Annotations | Rodrigo Benenson | 23:08 | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/948/) 
+5-Evaluating Weakly-Supervised Methods | Seong Joon Oh | 36:55 | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/949/) 
+6-Closing Remarks | Seong Joon Oh | 10:32 | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/950/) 
 
 ## Q&A
 
