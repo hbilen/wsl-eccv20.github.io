@@ -1,6 +1,8 @@
 # ECCV 2020 Tutorial on Weakly-Supervised Learning in Computer Vision
 
-Virtual tutorial at https://workshopsandtutorials.eccv2020.eu/papers/subject/weakly-supervised-learning-in-computer-vision/
+<a target="_blank" href="https://workshopsandtutorials.eccv2020.eu/papers/subject/weakly-supervised-learning-in-computer-vision/"><img border="0" src="https://workshopsandtutorials.eccv2020.eu/static/images/eccv-online-logo_A.png" height=120px></a>
+
+[Virtual tutorial](https://workshopsandtutorials.eccv2020.eu/papers/subject/weakly-supervised-learning-in-computer-vision/)
 
 ## Organizers/Speakers
 
@@ -10,9 +12,14 @@ Virtual tutorial at https://workshopsandtutorials.eccv2020.eu/papers/subject/wea
 
 ## Tutorial videos
 
-ECCV web page: https://workshopsandtutorials.eccv2020.eu/papers/subject/weakly-supervised-learning-in-computer-vision/
-
-Youtube: https://www.youtube.com/playlist?list=PLcD_yLvcdUll95mAnBDV0rZKhfClJMZMr
+Subject | Speaker | Time | Links
+-- | -- | -- | -- 
+1-Introduction | Hakan Bilen | 14:36 | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/947/) / [Youtube](https://www.youtube.com/watch?v=-cc2RYF37zE&list=PLcD_yLvcdUll95mAnBDV0rZKhfClJMZMr&index=2)
+2-Weakly Supervised Object Detection | Hakan Bilen | 1:02:18 | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/440/) / [Youtube](https://www.youtube.com/watch?v=L3m5SFOMNlo&list=PLcD_yLvcdUll95mAnBDV0rZKhfClJMZMr&index=2)
+3-Weakly Supervised Semantic Segmentation | Rodrigo Benenson | 47:26 | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/438/) / [Youtube](https://www.youtube.com/watch?v=jM1T1HwbY5s&list=PLcD_yLvcdUll95mAnBDV0rZKhfClJMZMr&index=3)
+4-Human-in-the-Loop Annotations | Rodrigo Benenson | 23:08 | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/948/) / [Youtube](https://www.youtube.com/watch?v=PCwpO3mLhZk&list=PLcD_yLvcdUll95mAnBDV0rZKhfClJMZMr&index=4)
+5-Evaluating Weakly-Supervised Methods | Seong Joon Oh | 36:55 | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/949/) / [Youtube](https://www.youtube.com/watch?v=D_dEkeb-fto&list=PLcD_yLvcdUll95mAnBDV0rZKhfClJMZMr&index=5)
+6-Closing Remarks | Seong Joon Oh | 10:32 | [ECCV2020](https://workshopsandtutorials.eccv2020.eu/paper/950/) / [Youtube](https://www.youtube.com/watch?v=IgO0g-R8HcA&list=PLcD_yLvcdUll95mAnBDV0rZKhfClJMZMr&index=6)
 
 ## Q&A
 
@@ -30,13 +37,5 @@ Deep convolutional networks have become the go-to technique for a variety of com
 
 This tutorial will provide an overview of weakly supervised learning methods in computer vision, and we will discuss the broad area of weakly supervised object recognition and its limitations of current state-of-the-art, evaluation metrics, and future ideas that will spur disruptive progress in the field of weakly supervised learning.
 
-## Table of contents
-
-1. Introduction of the tutorial on Weakly Supervised Learning in Computer Vision
-2. Tutorial on Weakly Supervised Object Detection
-3. Tutorial on Weakly supervised semantic segmentation
-4. Tutorial on Human-in-the-loop annotations
-5. Tutorial on evaluating weakly-supervised methods
-6. Closing remarks of the tutorial on Weakly Supervised Learning in Computer Vision
 
 
