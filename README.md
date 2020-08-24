@@ -8,7 +8,7 @@ Deep convolutional networks have become the go-to technique for a variety of com
 
 This tutorial will provide an overview of weakly supervised learning methods in computer vision, and we will discuss the broad area of weakly supervised object recognition and its limitations of current state-of-the-art, evaluation metrics, and future ideas that will spur disruptive progress in the field of weakly supervised learning.
 
-## Organizers/Speakers
+## Speakers
 
 <img src="hakan.jpg" alt="Hakan Bilen" style="float: left; margin-right: 10px;" height=120px/> |  <img src="rodrigo.jpg" alt="Rodrigo Benenson" style="float: left; margin-right: 10px;" height=120px/> | <img src="joon.jpg" alt="Seong Joon Oh" style="float: left; margin-right: 10px;" height=120px/>
 :--:|:--: | :--:
