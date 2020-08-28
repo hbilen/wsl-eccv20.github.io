@@ -39,7 +39,7 @@ During the live sessions we will dedicate time to answer the questions asked via
 
 ## Calendar and zoom links for live sessions
 
-**Session 1**. 9:00am - 10:30am (UTC+1) Friday 28 August 2020. [Zoom](https://us02web.zoom.us/j/86144569402?pwd=TE11MnZ2UzlPV3lWTEpLS0NlSHkrUT09) and [Calendar](https://workshopsandtutorials.eccv2020.eu/paper/949/eccv_first_event.ics).
+**Session 1**. 8:00am - 9:30am (UTC+1) Friday 28 August 2020. [Zoom](https://us02web.zoom.us/j/86144569402?pwd=TE11MnZ2UzlPV3lWTEpLS0NlSHkrUT09) and [Calendar](https://workshopsandtutorials.eccv2020.eu/paper/949/eccv_first_event.ics).
 
 **Session 2**. 16:00 - 17:30 (UTC+1) Friday 28 August 2020. [Zoom](https://us02web.zoom.us/j/84042052119?pwd=RGF0YW9qWWFxZ2MrWk02WGpXSnB1QT09) and [Calendar](https://workshopsandtutorials.eccv2020.eu/paper/949/eccv_second_event.ics).
 
